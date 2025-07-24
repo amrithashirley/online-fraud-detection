@@ -33,11 +33,3 @@ This project is a machine learning-based solution to detect fraudulent payment t
 - K-Nearest Neighbors (KNN)
 
 > ✅ **Balancing Technique:** SMOTE (Synthetic Minority Oversampling Technique)
-
-## ⚙️ How to Run the Project
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/akhilaankam/online-fraud-detection.git
-cd online-fraud-detection
